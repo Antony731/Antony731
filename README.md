@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Antony Alder George
-- 👀 I’m interested in machine learning jobs
-- 🌱 I’m currently learning Data Science
+- 👋 Hi, I’m Antony Alder George, I am data scientist skilled in data extraction, data cleaning, data analysis and advanced machined learning algorithms.
+- 👀 I am interested in learning and advancing my career as a Data Scientist.
+- 🌱 I’m currently open for Data Science jobs. 
 - 📫 How to reach me - antonyalderg@gmail.com
 
 <!---
